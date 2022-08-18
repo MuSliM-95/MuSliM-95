@@ -5,16 +5,28 @@
 <h2 align="center">Technologies I have worked with</h2>
 
  <div>
-  <img src="https://img.shields.io/badge/node.js-6DA55F"/>
-  <img src="https://img.shields.io/badge/node.js-6DA55F"/>
-  <img src="https://img.shields.io/badge/node.js-6DA55F"/>
-  <img src="https://img.shields.io/badge/node.js-6DA55F"/>
-  <img src="https://img.shields.io/badge/node.js-6DA55F"/>
-  <img src="https://img.shields.io/badge/node.js-6DA55F"/>
-  <img src="https://img.shields.io/badge/node.js-6DA55F"/>
-  <img src="https://img.shields.io/badge/node.js-6DA55F"/>
-  <img src="https://img.shields.io/badge/node.js-6DA55F"/>
-  <img src="https://img.shields.io/badge/node.js-6DA55F"/>
+  <img src="https://img.shields.io/badge/node.js-6DA55F" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F" />
+ <img src="https://img.shields.io/badge/node.js-6DA55F" />
+ <img src="https://img.shields.io/badge/node.js-6DA55F" />
+ <img src="https://img.shields.io/badge/node.js-6DA55F" />
+ <img src="https://img.shields.io/badge/node.js-6DA55F" />
+ <img src="https://img.shields.io/badge/node.js-6DA55F" />
+ <img src="https://img.shields.io/badge/node.js-6DA55F" />
+ <img src="https://img.shields.io/badge/node.js-6DA55F" />
+ <img src="https://img.shields.io/badge/node.js-6DA55F" />
+ <img src="https://img.shields.io/badge/node.js-6DA55F" />
+ <img src="https://img.shields.io/badge/node.js-6DA55F" />
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+ 
 </div>
 
 <!--
