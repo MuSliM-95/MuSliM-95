@@ -25,9 +25,10 @@
  <img src="https://img.shields.io/badge/node.js-6DA55F" />
  <img src="https://img.shields.io/badge/node.js-6DA55F" />
  <img src="https://img.shields.io/badge/node.js-6DA55F" />
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+
  
 </div>
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 
 <!--
 **MuSliM-95/MuSliM-95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
