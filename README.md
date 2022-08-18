@@ -1,5 +1,5 @@
-### Hi there 👋
-<h1 align="center">Технологи с которыми я работал</h1>
+<h1 align="center">### Hi there 👋 </h1>
+<h2 align="center">Технологи с которыми я работал</h2>
 <!--
 **MuSliM-95/MuSliM-95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
