@@ -5,7 +5,7 @@
 <h2 align="center">Technologies I have worked with</h2>
 
  <div>
-  <img src="https://img.shields.io/badge/node.js-6DA55F" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg" />
   <img src="https://img.shields.io/badge/node.js-6DA55F" />
   <img src="https://img.shields.io/badge/node.js-6DA55F" />
   <img src="https://img.shields.io/badge/node.js-6DA55F" />
