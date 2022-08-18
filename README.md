@@ -4,7 +4,18 @@
 
 <h2 align="center">Technologies I have worked with</h2>
 
-<img src="https://img.shields.io/badge/node.js-6DA55F"/>
+ <div>
+  <img src="https://img.shields.io/badge/node.js-6DA55F"/>
+  <img src="https://img.shields.io/badge/node.js-6DA55F"/>
+  <img src="https://img.shields.io/badge/node.js-6DA55F"/>
+  <img src="https://img.shields.io/badge/node.js-6DA55F"/>
+  <img src="https://img.shields.io/badge/node.js-6DA55F"/>
+  <img src="https://img.shields.io/badge/node.js-6DA55F"/>
+  <img src="https://img.shields.io/badge/node.js-6DA55F"/>
+  <img src="https://img.shields.io/badge/node.js-6DA55F"/>
+  <img src="https://img.shields.io/badge/node.js-6DA55F"/>
+  <img src="https://img.shields.io/badge/node.js-6DA55F"/>
+</div>
 
 <!--
 **MuSliM-95/MuSliM-95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
