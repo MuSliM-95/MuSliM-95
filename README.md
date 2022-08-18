@@ -1,4 +1,10 @@
 <h1 align="center">Hi there, 👋  I'm <a href="https://t.me/AgReSSoR_vu" target="_blank">MuHaMMaD</a> </h1>
+<div align="center">
+ <img src="https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white" width="90px" height="40px"/>
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREv9dN1QV8saNY2M1w4z6spRXv2cVCLhRayXtDG9JnmA&s" width="90px" height="40px" />
+ <img src="https://www.pngall.com/wp-content/uploads/10/Huobi-Token-Logo.png" width="90px" height="40px"/>
+</div>
+
 
 
 
@@ -7,7 +13,6 @@
  <div>
   <img src="https://img.shields.io/badge/react-%2320232a.svg" />
   <img src="https://img.shields.io/badge/redux-%23593d88.svg" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F" />
   <img src="https://img.shields.io/badge/node.js-6DA55F" />
   <img src="https://img.shields.io/badge/node.js-6DA55F" />
   <img src="https://img.shields.io/badge/node.js-6DA55F" />
