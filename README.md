@@ -6,7 +6,7 @@
 
  <div>
   <img src="https://img.shields.io/badge/react-%2320232a.svg" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F" />
+  <img src="https://img.shields.io/badge/redux-%23593d88.svg" />
   <img src="https://img.shields.io/badge/node.js-6DA55F" />
   <img src="https://img.shields.io/badge/node.js-6DA55F" />
   <img src="https://img.shields.io/badge/node.js-6DA55F" />
