@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, 👋 I'm <a href="https://t.me/AgReSSoR_vu" target="blank">MuHaMMaD</a></h1>
-<h2 align="center">Технологи с которыми я работал</h2>
+<h2 align="center">Technologies I have worked with</h2>
 
 <!--
 **MuSliM-95/MuSliM-95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
