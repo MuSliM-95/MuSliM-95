@@ -27,7 +27,7 @@
 
 > [Сайт для кинотеатра](https://github.com/MuSliM-95/Hospital_Frontend)
 
-> [Сайт для частной клиники](https://github.com/MuSliM-95/Hospital_Frontend)
+> [Сайт для частной клиники](https://github.com/MuSliM-95/week-project-client)
 
 &nbsp;
 
