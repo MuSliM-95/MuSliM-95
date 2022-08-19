@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, 👋  I'm <a href="https://t.me/AgReSSoR_vu" target="_blank">Muhammad</a> </h1>
+<h1 align="center">Hello there! Меня зовут <a href="https://t.me/AgReSSoR_vu" target="_blank">Muhammad</a><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> </h1>
 &nbsp;
 
 
@@ -6,7 +6,7 @@
 
 
 
-<h2 align="center">Technologies I have worked with</h2>
+<h2 align="center">Мой стэк</h2>
 
  <div>
  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
@@ -28,8 +28,8 @@
 > [Приложение для частной клиники](https://github.com/ParanoidBerg/Hospital_Frontend)
 
 &nbsp;
-<h1 align="center">MY HOBBY</h1>
-<h2 align="center">Trading on p2p platforms of such exchanges as<h2>
+
+<h2 align="center">В свободное время занимаюсь арбитражем на биржах криптовалют<h2>
 <div align="center">
  <img src="https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white" width="90px" height="40px"/>
  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREv9dN1QV8saNY2M1w4z6spRXv2cVCLhRayXtDG9JnmA&s" width="90px" height="40px" />
