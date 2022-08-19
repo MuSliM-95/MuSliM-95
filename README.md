@@ -6,7 +6,7 @@
 
 
 
-<h2 align="center">Мой стэк</h2>
+<h2 align="center">Мой стек</h2>
 
  <div>
  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
@@ -25,7 +25,9 @@
 
 <h2>Принимал участие в разработке таких проектов как:</h2>
 
-> [Приложение для частной клиники](https://github.com/ParanoidBerg/Hospital_Frontend)
+> [Сайт для кинотеатра](https://github.com/MuSliM-95/Hospital_Frontend)
+
+> [Сайт для частной клиники](https://github.com/MuSliM-95/Hospital_Frontend)
 
 &nbsp;
 
