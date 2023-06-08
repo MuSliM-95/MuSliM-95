@@ -1,12 +1,23 @@
-<h1 align="center">Hello there! Меня зовут <a href="https://t.me/HeIIoW0RID" target="_blank">Muhammad</a><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> </h1>
-&nbsp;
+<h1 align="center">Hi, guys!</h1>
+
+<div align="center">
+ <h4 align="center">Welcome to my page!</h4>
+ I'm Muhammad.<br>
+ My path as a programmer began in January 2022<br>
+ <a href="https://groznyj.hh.ru/resume/0691e80cff0b2f447d0039ed1f4535764a4268" target="_blank"><img src="https://img.shields.io/badge/hh-hh.ru-red" /> </a>
+</div>
+
+
+ 
+<!--  Меня зовут <a href="https://t.me/HeIIoW0RID" target="_blank">Muhammad</a><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> 
+&nbsp; -->
 
 
 
 
 
 
-<h2 align="center">Мой стек</h2>
+### Languages
 
  <div>
  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
