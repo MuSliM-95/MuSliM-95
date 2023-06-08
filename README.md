@@ -1,22 +1,25 @@
-<h1 align="center">Hi, guys!</h1>
+<h1 align="center">Hi, guys!
+  <a href="https://t.me/HeIIoW0RID" target="_blank">
+   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+  </a>
+</h1>
 
 <div align="center">
   <h4 align="center">Welcome to my page!</h4>
   I'm Muhammad.<br>
   My path as a programmer began in January 2022<br>
-  &nbsp;
- 
- <a href="https://groznyj.hh.ru/resume/0691e80cff0b2f447d0039ed1f4535764a4268" target="_blank"><img src="https://img.shields.io/badge/Head-Hunter-red?style=flat-square&" /> </a>
+<!--   &nbsp; -->
 </div>
 
-
- 
-<!--  Меня зовут <a href="https://t.me/HeIIoW0RID" target="_blank">Muhammad</a><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> 
-&nbsp; -->
-
-
-
-
+<div align="center">
+   <a href="https://groznyj.hh.ru/resume/0691e80cff0b2f447d0039ed1f4535764a4268" target="_blank">
+<!--    &nbsp; -->
+   
+   
+   <img src="https://img.shields.io/badge/Head-Hunter-red?style=flat-square&" />
+ </a>
+</div>
+&nbsp;
 
 
 ### Languages
