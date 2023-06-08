@@ -40,6 +40,7 @@
   <img src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/-SCSS-blue?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/-WEBPACK-blue?style=for-the-badge&logo=webpack&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NODE--TELEGRAM--BOT--API-green?style=for-the-badge&logo=telegram&logoColor=white" />
   
  
 </div>
