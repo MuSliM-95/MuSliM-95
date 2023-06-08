@@ -42,11 +42,16 @@
   <img src="https://img.shields.io/badge/-WEBPACK-blue?style=for-the-badge&logo=webpack&logoColor=white" />
   <img src="https://img.shields.io/badge/-NODE--TELEGRAM--BOT--API-green?style=for-the-badge&logo=telegram&logoColor=white" />
   <img src="https://img.shields.io/badge/-BOOTSTRAP-%237952B3?style=for-the-badge&logo=telegram&logoColor=white" />
-  
- 
 </div>
 
-<!--  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" /> -->
+### Applications I use
+
+<div>
+  <img src="https://img.shields.io/badge/-VS%20code-blue?style=for-the-badge&logo=visualstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  
+</div>
+
 <h2>Принимал участие в разработке таких проектов как:</h2>
 
 > [Сайт для частной клиники](https://github.com/MuSliM-95/Hospital_Frontend)
