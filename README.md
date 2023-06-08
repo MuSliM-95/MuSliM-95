@@ -48,9 +48,9 @@
 
 <div>
   <img src="https://img.shields.io/badge/-VS%20code-blue?style=for-the-badge&logo=visualstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MongoDB%20Compass-green?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/-Postman-orange?style=for-the-badge&logo=postman&logoColor=white" />
-  
+   <img src="https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
 
 <h2>Принимал участие в разработке таких проектов как:</h2>
