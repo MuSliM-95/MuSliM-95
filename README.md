@@ -57,6 +57,7 @@
 
 <div>
   <img src="https://img.shields.io/badge/-LINUX-orange?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-windows%2011-blue?style=for-the-badge&logo=windows&logoColor=white" />
 </div>
 
 <h2>Принимал участие в разработке таких проектов как:</h2>
